@@ -12,12 +12,13 @@ Flatten и Dense.. Для слоев Dense использовалось 256 не
 
 Функция потерь
 
+![alt text](1.jpg "epoch")
 
-
-
+![alt text](epoch_loss.jpg "epoch-loss")
 
 Метрика точности 
-
-
+epoch_val.jpg
+![alt text](epoch_val.jpg "epoch-var")
+![alt text](epoch_val_loss.jpg "epoch-var-loss")
 
 
